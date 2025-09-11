@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveTaskaITI", "SolveTaskaITI\SolveTaskaITI.csproj", "{819042C5-91A5-430A-B624-3414A458C901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819042C5-91A5-430A-B624-3414A458C901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819042C5-91A5-430A-B624-3414A458C901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819042C5-91A5-430A-B624-3414A458C901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819042C5-91A5-430A-B624-3414A458C901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F29BACC-6FE6-4712-B69D-D627A3020103}
+	EndGlobalSection
+EndGlobal
