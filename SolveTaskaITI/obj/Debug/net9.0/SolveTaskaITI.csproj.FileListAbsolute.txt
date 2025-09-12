@@ -1,0 +1,15 @@
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\bin\Debug\net9.0\SolveTaskaITI.exe
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\bin\Debug\net9.0\SolveTaskaITI.deps.json
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\bin\Debug\net9.0\SolveTaskaITI.runtimeconfig.json
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\bin\Debug\net9.0\SolveTaskaITI.dll
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\bin\Debug\net9.0\SolveTaskaITI.pdb
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.AssemblyInfoInputs.cache
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.AssemblyInfo.cs
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.csproj.CoreCompileInputs.cache
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.sourcelink.json
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.dll
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\refint\SolveTaskaITI.dll
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.pdb
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\SolveTaskaITI.genruntimeconfig.cache
+E:\Internship\ITI .Net\C#\SolveTaskaITI\SolveTaskaITI\obj\Debug\net9.0\ref\SolveTaskaITI.dll

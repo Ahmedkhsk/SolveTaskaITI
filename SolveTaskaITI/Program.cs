@@ -5,14 +5,21 @@
         static void Main(string[] args)
         {
             #region Day 1 Tasks
-            Day1.CharToAscii();
-            Day1.AsciiToChar();
-            Day1.CheckOddEven();
-            Day1.BasicOperations();
-            Day1.CalculateGrade();
+
+                Day1.CharToAscii();
+                Day1.AsciiToChar();
+                Day1.CheckOddEven();
+                Day1.BasicOperations();
+                Day1.CalculateGrade();
+            
             #endregion
 
             #region Day 2 Tasks
+
+                Day2.InputPrintStudentNames();
+                Day2.InputPrintCalculateAverageStudentAges();
+                Day2.TimeToSeconds();
+            
             #endregion
 
         }
