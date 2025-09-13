@@ -1,24 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SolveTaskaITI
+﻿namespace SolveTaskaITI.Day1
 {
     public static class Day1
     {
         public static void CharToAscii()
         {
             Console.Write("Enter Char: ");
-            char ch = Console.ReadLine()[0];
-            int ascii = (int)ch;
+            char ch = Console.ReadLine()![0];
+            int ascii = ch;
             Console.WriteLine($"Asci Code Of {ch} is {ascii}");
         }
         public static void AsciiToChar()
         {
             Console.Write("Enter ASCII Code: ");
-            int asciiCode = int.Parse(Console.ReadLine());
+            int asciiCode = int.Parse(Console.ReadLine()!);
             char character = (char)asciiCode;
             Console.WriteLine($"Character of ASCII {asciiCode} is {character}");
         }
@@ -27,7 +21,7 @@ namespace SolveTaskaITI
         {
 
             Console.Write("Enter Number: ");
-            int number = int.Parse(Console.ReadLine());
+            int number = int.Parse(Console.ReadLine()!);
             if (number % 2 == 0)
                 Console.WriteLine($"{number} is Even");
             else
@@ -37,9 +31,9 @@ namespace SolveTaskaITI
         public static void BasicOperations()
         {
             Console.Write("Enter First Number: ");
-            double num1 = double.Parse(Console.ReadLine());
+            double num1 = double.Parse(Console.ReadLine()!);
             Console.Write("Enter Second Number: ");
-            double num2 = double.Parse(Console.ReadLine());
+            double num2 = double.Parse(Console.ReadLine()!);
 
             Console.WriteLine($"Sum: {num1 + num2}");
             Console.WriteLine($"Subtraction: {num1 - num2}");
@@ -49,7 +43,7 @@ namespace SolveTaskaITI
         public static void CalculateGrade()
         {
             Console.Write("Enter Your Degree: ");
-            int degree = int.Parse(Console.ReadLine());
+            int degree = int.Parse(Console.ReadLine()!);
 
             var grade = degree switch
             {
@@ -73,15 +67,6 @@ namespace SolveTaskaITI
                 }
                 Console.WriteLine();
             }
-        }
-
-
-
-
-
-
-
-   
-        
+        }        
     }
 }

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SolveTaskaITI
+﻿namespace SolveTaskaITI.Day2
 {
     public static class Day2
     {
@@ -68,7 +62,8 @@ namespace SolveTaskaITI
             }
 
         }
-    
+        
+
         public static void TimeToSeconds()
         {
             Time t = new Time();
