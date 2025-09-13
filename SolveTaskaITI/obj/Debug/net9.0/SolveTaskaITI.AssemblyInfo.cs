@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolveTaskaITI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bd6a59f3784526eb9cc6286a5a285ee0e029b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403aef8ea0132449672d5aea4ea4d3daee65955b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolveTaskaITI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolveTaskaITI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
