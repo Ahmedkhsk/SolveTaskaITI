@@ -1,6 +1,7 @@
 ﻿using SolveTaskaITI.Day1;
 using SolveTaskaITI.Day2;
 using SolveTaskaITI.Day3;
+using SolveTaskaITI.Day4;
 
 
 #region Day 1 Tasks
@@ -25,5 +26,12 @@ using SolveTaskaITI.Day3;
 
     Day3.Calc();
     Day3.Question();
+
+#endregion
+
+#region Day 4 Tasks
+
+   Day4.Shape();
+   Day4.RunSystem();
 
 #endregion
