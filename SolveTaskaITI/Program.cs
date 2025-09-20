@@ -2,6 +2,7 @@
 using SolveTaskaITI.Day2;
 using SolveTaskaITI.Day3;
 using SolveTaskaITI.Day4;
+using SolveTaskaITI.Day5_6;
 
 
 #region Day 1 Tasks
@@ -31,7 +32,18 @@ using SolveTaskaITI.Day4;
 
 #region Day 4 Tasks
 
-   Day4.Shape();
-   Day4.RunSystem();
+    Day4.Shape();
+    Day4.RunSystem();
+
+#endregion
+
+#region Day 5_6 Tasks
+
+    Day5_6.BubbleSortDemo();    
+    Day5_6.RangeDemo();
+    Day5_6.ReveseDem();
+    Day5_6.GetEvenNumbers();
+    Day5_6.FixedSizeListDemo();
+
 
 #endregion
