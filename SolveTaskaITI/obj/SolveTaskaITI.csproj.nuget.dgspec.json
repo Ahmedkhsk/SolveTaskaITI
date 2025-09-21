@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj": {}
+    "E:\\Programming\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj": {}
   },
   "projects": {
-    "E:\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj": {
+    "E:\\Programming\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj",
+        "projectUniqueName": "E:\\Programming\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj",
         "projectName": "SolveTaskaITI",
-        "projectPath": "E:\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj",
+        "projectPath": "E:\\Programming\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\SolveTaskaITI.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\obj\\",
+        "outputPath": "E:\\Programming\\Internship\\ITI .Net\\C#\\SolveTaskaITI\\SolveTaskaITI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,11 +3,12 @@ using SolveTaskaITI.Day2;
 using SolveTaskaITI.Day3;
 using SolveTaskaITI.Day4;
 using SolveTaskaITI.Day5_6;
+using SolveTaskaITI.Day7;
 
 
 #region Day 1 Tasks
 
-    Day1.CharToAscii();
+Day1.CharToAscii();
     Day1.AsciiToChar();
     Day1.CheckOddEven();
     Day1.BasicOperations();
@@ -45,5 +46,15 @@ using SolveTaskaITI.Day5_6;
     Day5_6.GetEvenNumbers();
     Day5_6.FixedSizeListDemo();
 
+
+#endregion
+
+#region Day 7 Tasks
+
+    Day7.ProductDemo();
+    Day7.countStringDemo();
+    Day7.IsEvenDemo();
+    Day7.AgeDemo();
+    Day7.ReverseStringDemo();
 
 #endregion
