@@ -4,57 +4,66 @@ using SolveTaskaITI.Day3;
 using SolveTaskaITI.Day4;
 using SolveTaskaITI.Day5_6;
 using SolveTaskaITI.Day7;
+using SolveTaskaITI.Linq;
 
 
 #region Day 1 Tasks
 
-Day1.CharToAscii();
-    Day1.AsciiToChar();
-    Day1.CheckOddEven();
-    Day1.BasicOperations();
-    Day1.CalculateGrade();
+    //Day1.CharToAscii();
+    //Day1.AsciiToChar();
+    //Day1.CheckOddEven();
+    //Day1.BasicOperations();
+    //Day1.CalculateGrade();
 
 #endregion
 
 #region Day 2 Tasks
 
-    Day2.InputPrintStudentNames();
-    Day2.InputPrintCalculateAverageStudentAges();
-    Day2.TimeToSeconds();
+    //Day2.InputPrintStudentNames();
+    //Day2.InputPrintCalculateAverageStudentAges();
+    //Day2.TimeToSeconds();
 
 #endregion
 
 #region Day 3 Tasks
 
-    Day3.Calc();
-    Day3.Question();
+    //Day3.Calc();
+    //Day3.Question();
 
 #endregion
 
 #region Day 4 Tasks
 
-    Day4.Shape();
-    Day4.RunSystem();
+    //Day4.Shape();
+    //Day4.RunSystem();
 
 #endregion
 
 #region Day 5_6 Tasks
 
-    Day5_6.BubbleSortDemo();    
-    Day5_6.RangeDemo();
-    Day5_6.ReveseDem();
-    Day5_6.GetEvenNumbers();
-    Day5_6.FixedSizeListDemo();
+    //Day5_6.BubbleSortDemo();    
+    //Day5_6.RangeDemo();
+    //Day5_6.ReveseDem();
+    //Day5_6.GetEvenNumbers();
+    //Day5_6.FixedSizeListDemo();
 
 
 #endregion
 
 #region Day 7 Tasks
 
-    Day7.ProductDemo();
-    Day7.countStringDemo();
-    Day7.IsEvenDemo();
-    Day7.AgeDemo();
-    Day7.ReverseStringDemo();
+    //Day7.ProductDemo();
+    //Day7.countStringDemo();
+    //Day7.IsEvenDemo();
+    //Day7.AgeDemo();
+    //Day7.ReverseStringDemo();
 
 #endregion
+
+#region Day 7 Tasks
+
+    Linq.LinqDemo();
+
+#endregion
+
+Console.ReadLine();
